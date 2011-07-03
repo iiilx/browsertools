@@ -1,0 +1,8 @@
+README
+setup.py
+browsertools/__init__.py
+browsertools/browsertools.py
+browsertools.egg-info/PKG-INFO
+browsertools.egg-info/SOURCES.txt
+browsertools.egg-info/dependency_links.txt
+browsertools.egg-info/top_level.txt

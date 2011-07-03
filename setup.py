@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from distutils.core import setup
+from setuptools import setup
  
 setup(
     name='browsertools',
@@ -8,8 +8,5 @@ setup(
     description='This browser library is designed to make scraping easier and less obvious...ok probably not.',
     author='ben86lee',
     url='https://github.com/iiilx/browsertools',
-    package_dir={'': ''},
-    py_modules=[
-        'browsertools',
-    ],
+    packages = ['browsertools'],
 )
