@@ -8,7 +8,7 @@ setup(
     description='This browser library is designed to make scraping easier and less obvious...ok probably not.',
     author='ben86lee',
     url='https://github.com/iiilx/browsertools',
-    package_dir={'': 'src'},
+    package_dir={'': ''},
     py_modules=[
         'browsertools',
     ],
